@@ -2,6 +2,7 @@ package Automation1;
 
 import java.util.concurrent.TimeUnit;
 
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -99,9 +100,6 @@ public class HW1 {
 			drpday.click();
 			Select day = new Select(drpday);
 			day.selectByIndex(5);
-		//Relative x-path Rule 7.//*[@attribute='value']
-			//WebElement drpmonth = //*[@id='months']
-			//drpmonth		
 		
 		
 		
@@ -116,3 +114,15 @@ public class HW1 {
 	}
 
 }
+
+
+
+
+    
+
+ 
+ 
+
+
+	
+
