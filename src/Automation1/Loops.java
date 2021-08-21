@@ -53,8 +53,18 @@ public class Loops {
 	AddToCart.click();
 	i++;
 	}
-	while (i<4);
+	while (i<5);
+	Thread.sleep(2000);
+	for (int x=1; x<1; x++)
+	{
+	
+	driver.findElement(By.xpath("//*[@id=\"cart_quantity_down_6_31_0_0\"]")).click();
+	
+		
 
+	
+	
+	}
 	}
 	}
 
