@@ -5,13 +5,10 @@
     <classes>
       <class name="Automation1.TestNg">
         <methods>
-          <include name="personalinfo"/>
           <include name="mobilephone"/>
           <include name="selectdays"/>
-          <include name="setup"/>
-          <include name="clicksubmit"/>
           <include name="company"/>
-          <include name="enteremail"/>
+          <include name="setup"/>
           <include name="closetab"/>
         </methods>
       </class> <!-- Automation1.TestNg -->

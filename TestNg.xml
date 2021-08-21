@@ -3,9 +3,15 @@
 <suite name="Suite1">
   <test thread-count="5" name="Test10">
     <classes>
-      <class name="Automation1.TestNg"/>
-        
-   
+      <class name="Automation1.Actions1"/>
+       <class name="Automation1.CSS"/>  
+   	 <class name="Automation1.HW1"/>
+   	  <class name="Automation1.Loops"/>
+   	   <class name="Automation1.Startup"/>
+   	    <class name="Automation1.TestNg"/>
+   	     <class name="Automation1.TestNg2"/>
+   	  
+   	  
     </classes>
   </test> <!-- Test10 -->
 </suite> <!-- Suite1 -->
